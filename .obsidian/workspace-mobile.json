@@ -1,0 +1,400 @@
+{
+  "main": {
+    "id": "d1e6b3b3e0c1bade",
+    "type": "split",
+    "children": [
+      {
+        "id": "85f04db9f0e560a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecbbd8c445439ea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "物理/楞次定律.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "楞次定律"
+            }
+          },
+          {
+            "id": "f1fad668086144f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/CTB 全国赛.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CTB 全国赛"
+            }
+          },
+          {
+            "id": "d1ed314552365ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生物/种群的数量特征.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "种群的数量特征"
+            }
+          },
+          {
+            "id": "9ca0d9be487ffbcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/一些公式.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "一些公式"
+            }
+          },
+          {
+            "id": "b2adbd045f3a04a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "物理/磁场对于通电导线的作用力.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "磁场对于通电导线的作用力"
+            }
+          },
+          {
+            "id": "ccd00e532ac71bdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/泰勒展开式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "泰勒展开式"
+            }
+          },
+          {
+            "id": "933c7480075838b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "化学/烷，烯，炔.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "烷，烯，炔"
+            }
+          },
+          {
+            "id": "96ce2dae3809812d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "物理/感应强度  磁通量.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "感应强度  磁通量"
+            }
+          },
+          {
+            "id": "808e443077f99860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生物交流感应.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "生物交流感应"
+            }
+          },
+          {
+            "id": "46f83789eb698b59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Things fall apart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Things fall apart"
+            }
+          },
+          {
+            "id": "811a7aa0897e730e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Things fall apart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Things fall apart"
+            }
+          },
+          {
+            "id": "f4978cb434bc4934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/级数的收敛性.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "级数的收敛性"
+            }
+          },
+          {
+            "id": "df71a13c441ded3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/一些公式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "一些公式"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "254377ef5324d98c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b225426c9f069632",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "8fa64eea12521be3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "791112c4fee7ff34",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "860c2127f677ff73",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "c4962ac5d7a844e8",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f0c3d1781c210a49",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "094b64708c55e93d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "化学/范德华力.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "6ff49c1e9c53bdec",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "化学/范德华力.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "2614f217b920269b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "化学/范德华力.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "984e253365912d7f",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f1fad668086144f8",
+  "lastOpenFiles": [
+    "Blog/从 500 元爆仓到构建投资组合：我是如何因为给 ChatGPT 充值而意外闯入 Web3 的.md",
+    "乱七八糟的/路由器.md",
+    "乱七八糟的/Latex数学公式.md",
+    "压岁钱记录及分配方法.md",
+    "数学/可去间断（Removable Discontinuity）.md",
+    "数学/一些公式.md",
+    "数学/三角函数导数表.md",
+    "数学/数学期末复习.md",
+    "数学/级数的收敛性.md",
+    "物理/无线电波.md",
+    "物理/闭合电路欧姆定律.md",
+    "物理/质谱仪.md",
+    "物理/物理交变电流笔记.md",
+    "物理/电磁.md",
+    "物理/洛伦兹力.md",
+    "物理/楞次定律.md",
+    "物理/感应强度  磁通量.md",
+    "物理/一些公式复习.md",
+    "无线电波.md",
+    "数学/泰勒展开式.md",
+    "数学/some thing about vector.md",
+    "物理/磁场对于通电导线的作用力.md",
+    "数学/拉格朗日误差界.md",
+    "other/路由器.md",
+    "other/HA备份.md",
+    "Untitled 1.md",
+    "attachments/Pasted image 20250415223601.png",
+    "attachments/Pasted image 20250415223504.png",
+    "attachments/Screenshot 2025-04-08 at 20.33.44.png",
+    "attachments/Screenshot 2025-04-06 at 21.24.35.png",
+    "attachments/Screenshot 2025-03-20 at 18.55.43.png",
+    "attachments/Screenshot 2025-03-20 at 18.57.05.png",
+    "attachments/TOEFL SIMPLIFICATION QUESTION.pdf",
+    "attachments/TOEFL SIMPLIFICATION QUESTION.docx",
+    "计算机笔记",
+    "attachments/Bilingual_Vocabulary_Sheet.pdf",
+    "attachments/context clues 1.pdf",
+    "attachments/context clues.pdf",
+    "attachments/Screenshot 2025-03-15 at 11.08.21.png",
+    "综合英语",
+    "attachments/1741327893775.png",
+    "英文文学",
+    "attachments/Screenshot 2025-03-10 at 19.20.52.png",
+    "数学",
+    "attachments/Pasted image 20250310152331.png",
+    "化学"
+  ]
+}

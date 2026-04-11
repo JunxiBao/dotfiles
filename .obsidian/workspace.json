@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "aff5ee8219e82205",
+    "type": "split",
+    "children": [
+      {
+        "id": "f93a4222313f42c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e8204cd0eec52eb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "KAIMING/AP CSA/AP CSA Java Cheat Sheet.pdf",
+                "page": 21,
+                "left": -10,
+                "top": 310,
+                "zoom": 1.6053921568627452
+              },
+              "icon": "lucide-file-text",
+              "title": "AP CSA Java Cheat Sheet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db4a90639294e223",
+    "type": "split",
+    "children": [
+      {
+        "id": "696ac5754b765212",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a550d13f6182dda4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "aed8cf2b4ba81b76",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "d104903bef767559",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "right": {
+    "id": "db61641815aa88e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e52194a56ec868a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce093ed608bc6c25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "学术英语/2025-02-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-02-21"
+            }
+          },
+          {
+            "id": "786395bbfad0dc94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "54efc032800771d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b51bc6c3914b850d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "c6bccb3a1ca6a688",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "生物/种群的数量特征.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 种群的数量特征"
+            }
+          },
+          {
+            "id": "5c7f4febd57395ff",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f87319eddbe6641e",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "乱七八糟的/AP 考试报名安排.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "60851441b9137f42",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 386.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "9e8204cd0eec52eb",
+  "lastOpenFiles": [
+    "KAIMING/AP CSA/ap-computer-science-a-java-quick-reference.pdf",
+    "KAIMING/AP CSA/公式表和treat sheet.md",
+    "KAIMING/AP CSA/AP CSA Java Cheat Sheet.pdf",
+    "AP 统计总复习.md",
+    "KAIMING/AP Statistics/计算器使用办法.md",
+    "Blog/上架华为市场.md",
+    "KAIMING/AP CSA/复习笔记.md",
+    "KAIMING/AP WH/2024SAQ.md",
+    "Blog/进行软著申请.md",
+    "Blog/让 AI 助手更加智能化.md",
+    "Blog/解决弹窗的UI问题.md",
+    "Blog/系统的深浅色切换功能.md",
+    "Blog/满足审核要求并且成功上线.md",
+    "Blog/检查用户连胜天出.md",
+    "Blog/托福学习：一条苦痛之路.md",
+    "Blog/开始搭建用户健康数据库.md",
+    "Blog/巨大事故：不小心删除了用户所有上传的图片.md",
+    "Blog/完成自动检查消息更新功能.md",
+    "Blog/完成打系统.md",
+    "Blog/完成ICP备案.md",
+    "Blog/完成daily页面并且提交审核.md",
+    "Blog/完成app内自动检查更新.md",
+    "Blog/增加照片上传功能.md",
+    "Blog/增加日历页面直观展示发病日期.md",
+    "Blog/压缩代码文件.md",
+    "Blog/加密货币冷钱包.md",
+    "Blog/公益大赛.md",
+    "Attachments/AP CSA Java Cheat Sheet.pdf",
+    "Attachments/~$ CSA Java Cheat Sheet.docx",
+    "Attachments/AP CSA Java Cheat Sheet.docx",
+    "Attachments/CSA 公式.pdf",
+    "Attachments/099E8454-99B6-428A-822B-8A8D61244566.png",
+    "tags.lock",
+    "copilot/copilot-conversations",
+    "copilot",
+    "未命名.base",
+    "copilot/copilot-custom-prompts",
+    "Attachments/C9ECBF0A-3489-41A0-8A72-24E582FA5BB8.png",
+    "Attachments/70B8A1E5-DBA3-40A3-B95A-6B3FD9C7FC4C.png",
+    "Attachments/21D67151-2491-45A0-8E57-1BC8BA1042F7.png",
+    "Attachments/DABDCC89-EA2B-4DFE-82D5-B048345C8D05.png",
+    "Attachments/AE84F226-10A7-4333-93BB-C0AD13F717F9.png",
+    "Attachments/5F6B6D46-E61B-4709-BF9F-6923F143DEFC.png",
+    "Attachments/BB9566A6-AB39-4AF7-9220-A25370D7402D.png",
+    "Attachments/064575FE-6DC6-493C-B7DA-923095128E4E.png",
+    "Attachments/446F71F1-0E52-4052-9F01-36501223156C.png",
+    "Untitled.canvas",
+    "化学晶体思维导图.canvas"
+  ]
+}

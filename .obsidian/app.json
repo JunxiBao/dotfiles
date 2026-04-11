@@ -1,0 +1,19 @@
+{
+  "promptDelete": true,
+  "attachmentFolderPath": "Attachments",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "livePreview": true,
+  "strictLineBreaks": true,
+  "newFileLocation": "root",
+  "uriCallbacks": true,
+  "showLineNumber": true
+}
