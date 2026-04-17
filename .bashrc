@@ -4,6 +4,8 @@ export PATH=${HOME}/.local/opt/node/bin:${PATH}
 export PATH=${HOME}/.local/bin:${PATH}
 export PATH=${HOME}/tool:${PATH}
 
+# Added by Obsidian
+export PATH="$PATH:/Applications/Obsidian.app/Contents/MacOS"
 export JAVA_HOME=/opt/homebrew/opt/openjdk
 export PATH=${JAVA_HOME}/bin:${PATH}
 

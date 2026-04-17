@@ -1,5 +1,5 @@
 {
-  "promptDelete": true,
+  "promptDelete": false,
   "attachmentFolderPath": "Attachments",
   "pdfExportSettings": {
     "includeName": true,
@@ -10,10 +10,12 @@
   },
   "readableLineLength": true,
   "alwaysUpdateLinks": true,
-  "vimMode": true,
+  "vimMode": false,
   "livePreview": true,
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "newFileLocation": "root",
   "uriCallbacks": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }

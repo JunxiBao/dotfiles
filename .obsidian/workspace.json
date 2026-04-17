@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f93a4222313f42c9",
+        "id": "da11e7bd77914549",
         "type": "tabs",
         "children": [
           {
-            "id": "9e8204cd0eec52eb",
+            "id": "fbf185a3d7cde935",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "KAIMING/AP CSA/AP CSA Java Cheat Sheet.pdf",
-                "page": 21,
-                "left": -10,
-                "top": 310,
-                "zoom": 1.6053921568627452
+                "file": "终端命令/TMUX_NVIM_GUIDE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "AP CSA Java Cheat Sheet"
+              "icon": "lucide-file",
+              "title": "TMUX_NVIM_GUIDE"
             }
           }
         ]
@@ -42,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +48,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -81,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 290
   },
   "right": {
     "id": "db61641815aa88e8",
@@ -91,39 +89,6 @@
         "id": "5e52194a56ec868a",
         "type": "tabs",
         "children": [
-          {
-            "id": "ce093ed608bc6c25",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "学术英语/2025-02-21.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2025-02-21"
-            }
-          },
-          {
-            "id": "786395bbfad0dc94",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Untitled.canvas",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
-            }
-          },
           {
             "id": "54efc032800771d4",
             "type": "leaf",
@@ -150,22 +115,52 @@
             }
           },
           {
-            "id": "c6bccb3a1ca6a688",
+            "id": "f87319eddbe6641e",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "footnotes",
               "state": {
-                "file": "生物/种群的数量特征.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "KAIMING/AP Statistics/AP 统计总复习.md"
               },
-              "icon": "lucide-list",
-              "title": "Outline of 种群的数量特征"
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
             }
           },
           {
-            "id": "5c7f4febd57395ff",
+            "id": "bdf2e4955a5aee64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "KAIMING/AP Lang/AP Lang mock 2 writing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AP Lang mock 2 writing"
+            }
+          },
+          {
+            "id": "2a588d68a88916fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "KAIMING/AP Lang/AP Lang mock 2 writing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AP Lang mock 2 writing"
+            }
+          },
+          {
+            "id": "2858378a75451abb",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -179,25 +174,28 @@
             }
           },
           {
-            "id": "f87319eddbe6641e",
+            "id": "dcfc191a3c71070a",
             "type": "leaf",
             "state": {
-              "type": "footnotes",
+              "type": "outline",
               "state": {
-                "file": "乱七八糟的/AP 考试报名安排.md"
+                "file": "Blog/en/Obsidian, The Best Note-Taking Tool.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
+              "icon": "lucide-list",
+              "title": "Outline of Obsidian, The Best Note-Taking Tool"
             }
           },
           {
-            "id": "60851441b9137f42",
+            "id": "3ab8d842f87b5b3d",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
+              "type": "claudian-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "bot",
+              "title": "Claudian"
             }
           }
         ],
@@ -205,71 +203,75 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 396.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true,
       "graph:Open graph view": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "templates:Insert template": true,
+      "markdown-importer:Open format converter": true,
+      "workspaces:Manage workspace layouts": true,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "canvas:Create new canvas": false,
+      "claudian:Open Claudian": false
     }
   },
-  "active": "9e8204cd0eec52eb",
+  "active": "fbf185a3d7cde935",
   "lastOpenFiles": [
-    "KAIMING/AP CSA/ap-computer-science-a-java-quick-reference.pdf",
-    "KAIMING/AP CSA/公式表和treat sheet.md",
-    "KAIMING/AP CSA/AP CSA Java Cheat Sheet.pdf",
-    "AP 统计总复习.md",
-    "KAIMING/AP Statistics/计算器使用办法.md",
-    "Blog/上架华为市场.md",
-    "KAIMING/AP CSA/复习笔记.md",
-    "KAIMING/AP WH/2024SAQ.md",
-    "Blog/进行软著申请.md",
-    "Blog/让 AI 助手更加智能化.md",
-    "Blog/解决弹窗的UI问题.md",
-    "Blog/系统的深浅色切换功能.md",
-    "Blog/满足审核要求并且成功上线.md",
-    "Blog/检查用户连胜天出.md",
-    "Blog/托福学习：一条苦痛之路.md",
-    "Blog/开始搭建用户健康数据库.md",
-    "Blog/巨大事故：不小心删除了用户所有上传的图片.md",
-    "Blog/完成自动检查消息更新功能.md",
-    "Blog/完成打系统.md",
-    "Blog/完成ICP备案.md",
-    "Blog/完成daily页面并且提交审核.md",
-    "Blog/完成app内自动检查更新.md",
-    "Blog/增加照片上传功能.md",
-    "Blog/增加日历页面直观展示发病日期.md",
-    "Blog/压缩代码文件.md",
-    "Blog/加密货币冷钱包.md",
-    "Blog/公益大赛.md",
-    "Attachments/AP CSA Java Cheat Sheet.pdf",
-    "Attachments/~$ CSA Java Cheat Sheet.docx",
-    "Attachments/AP CSA Java Cheat Sheet.docx",
-    "Attachments/CSA 公式.pdf",
-    "Attachments/099E8454-99B6-428A-822B-8A8D61244566.png",
-    "tags.lock",
-    "copilot/copilot-conversations",
-    "copilot",
-    "未命名.base",
-    "copilot/copilot-custom-prompts",
-    "Attachments/C9ECBF0A-3489-41A0-8A72-24E582FA5BB8.png",
-    "Attachments/70B8A1E5-DBA3-40A3-B95A-6B3FD9C7FC4C.png",
-    "Attachments/21D67151-2491-45A0-8E57-1BC8BA1042F7.png",
-    "Attachments/DABDCC89-EA2B-4DFE-82D5-B048345C8D05.png",
-    "Attachments/AE84F226-10A7-4333-93BB-C0AD13F717F9.png",
-    "Attachments/5F6B6D46-E61B-4709-BF9F-6923F143DEFC.png",
-    "Attachments/BB9566A6-AB39-4AF7-9220-A25370D7402D.png",
-    "Attachments/064575FE-6DC6-493C-B7DA-923095128E4E.png",
-    "Attachments/446F71F1-0E52-4052-9F01-36501223156C.png",
+    "KAIMING/AP Statistics/AP Statistics Final Review.md",
+    "终端命令/TMUX_NVIM_GUIDE.md",
+    "Blog/en/Obsidian, The Best Note-Taking Tool.md",
+    "Blog/zh/Obsidian,最好用的笔记工具.md",
+    "Blog/zh/CTB全国赛摘金记：从代码到领奖台的惊险之旅.md",
+    "Blog/zh/TOEFL学习：一段痛苦的历程.md",
+    "assets/Obsidian,.md",
+    "Blog/en/assets/Obsidian, The Best Note-Taking Tool/file-20260416192032955.png",
+    "Blog/zh/assets/Obsidian,最好用的笔记工具/file-20260416191955912.png",
+    "Blog/en/assets/Obsidian, The Best Note-Taking Tool/file-20260416191955912.png",
+    "Blog/en/assets/Obsidian, The Best Note-Taking Tool/file-20260416192636665.png",
+    "assets",
+    "Blog/en/The Complex Path of Finding a Suitable Editor.md",
+    "Blog/en/The Intelligent Path in my room.md",
+    "Blog/en/Taking the First Step in Crypto Investing: My Tangem Cold Wallet Unboxing Experience.md",
+    "Blog/en/National Championship: A Thrilling Journey from Code to Podium.md",
+    "Blog/en/Managing Emails with Custom Domain via Cloudflare.md",
+    "Blog/en/From Zero to App Store: My First Swift App Made with AI.md",
+    "Blog/en/Building a Home Networking Solution with Mesh Routers.md",
+    "Blog/en/2025 Youth Challenge competition.md",
+    "Blog/en/assets/Obsidian, The Best Note-Taking Tool",
+    "Obsidian,最好用的笔记工具.md",
+    "Blog/zh/assets/Obsidian,最好用的笔记工具/file-20260416192636665.png",
+    "Blog/zh/assets/Obsidian,最好用的笔记工具/file-20260416192032955.png",
+    "Blog/zh/assets/Obsidian,最好用的笔记工具",
+    "assets/Obsidian,最好用的笔记工具/file-20260416192636665.png",
+    "assets/Obsidian,最好用的笔记工具/file-20260416192032955.png",
+    "assets/Obsidian,最好用的笔记工具/file-20260416191955912.png",
+    "assets/Obsidian,最好用的笔记工具",
+    "KAIMING/AP Physics C/AP 物理总复习.md",
+    "KAIMING/AP Physics C/‼️重要模型.pdf",
+    "KAIMING/各个考试的5分线预测.md",
+    "KAIMING/AP Physics C/Equation Sheets_Physics C-E_M.pdf",
+    "KAIMING/AP Physics C/历年真题/IPE_2019_Physics_C_ EM.pdf",
+    "KAIMING/AP Physics C/历年真题/IPE_2016_Physics C_EM.pdf",
+    "KAIMING/AP Physics C/公式表/公式表 1.png",
+    "KAIMING/AP Physics C/历年真题",
+    "KAIMING/AP Physics C/历年真题/IPE_2018_Physics_C_ EM.pdf",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "BTC price factors mindmap.canvas",
+    "AP Physics C Mindmap.canvas",
     "Untitled.canvas",
     "化学晶体思维导图.canvas"
   ]

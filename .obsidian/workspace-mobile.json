@@ -4,193 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "85f04db9f0e560a2",
+        "id": "71f499f610795eb9",
         "type": "tabs",
         "children": [
           {
-            "id": "ecbbd8c445439ea0",
+            "id": "761f5f47f669d155",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "物理/楞次定律.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "楞次定律"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
-            "id": "f1fad668086144f8",
+            "id": "ef0843ebd62e4ed3",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
+            }
+          },
+          {
+            "id": "8eae95ee07d2e319",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/CTB 全国赛.md",
+                "file": "KAIMING/AP Physics C/AP 物理总复习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CTB 全国赛"
-            }
-          },
-          {
-            "id": "d1ed314552365ba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生物/种群的数量特征.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "种群的数量特征"
-            }
-          },
-          {
-            "id": "9ca0d9be487ffbcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学/一些公式.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "一些公式"
-            }
-          },
-          {
-            "id": "b2adbd045f3a04a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "物理/磁场对于通电导线的作用力.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "磁场对于通电导线的作用力"
-            }
-          },
-          {
-            "id": "ccd00e532ac71bdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学/泰勒展开式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "泰勒展开式"
-            }
-          },
-          {
-            "id": "933c7480075838b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "化学/烷，烯，炔.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "烷，烯，炔"
-            }
-          },
-          {
-            "id": "96ce2dae3809812d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "物理/感应强度  磁通量.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "感应强度  磁通量"
-            }
-          },
-          {
-            "id": "808e443077f99860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生物交流感应.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "生物交流感应"
-            }
-          },
-          {
-            "id": "46f83789eb698b59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things fall apart.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Things fall apart"
-            }
-          },
-          {
-            "id": "811a7aa0897e730e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things fall apart.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Things fall apart"
-            }
-          },
-          {
-            "id": "f4978cb434bc4934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学/级数的收敛性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "级数的收敛性"
-            }
-          },
-          {
-            "id": "df71a13c441ded3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学/一些公式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "一些公式"
+              "title": "AP 物理总复习"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,7 +58,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "文件列表"
@@ -314,68 +166,72 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "化学/范德华力.md",
+            "file": "KAIMING/AP Physics C/AP 物理总复习.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
           },
           "icon": "lucide-list",
-          "title": "Outline"
-        }
-      },
-      {
-        "id": "984e253365912d7f",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "title": "大纲"
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
-      "copilot:Open Copilot Chat": false,
+      "canvas:新建白板": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1fad668086144f8",
+  "active": "b225426c9f069632",
   "lastOpenFiles": [
-    "Blog/从 500 元爆仓到构建投资组合：我是如何因为给 ChatGPT 充值而意外闯入 Web3 的.md",
-    "乱七八糟的/路由器.md",
+    "KAIMING/各个考试的5分线预测.md",
+    "KAIMING/AP Physics C/Equation Sheets_Physics C-E_M.pdf",
+    "KAIMING/AP Physics C/‼️重要模型.pdf",
+    "Blog/en/assets/Obsidian, The Best Note-Taking Tool/file-20260416192636665.png",
+    "Blog/en/assets/Obsidian, The Best Note-Taking Tool/file-20260416192032955.png",
+    "Blog/en/assets/Obsidian, The Best Note-Taking Tool",
+    "Blog/en/Obsidian, The Best Note-Taking Tool.md",
+    "Blog/zh/assets/Obsidian,最好用的笔记工具/file-20260416192636665.png",
+    "Blog/zh/assets/Obsidian,最好用的笔记工具/file-20260416192032955.png",
+    "Blog/zh/assets/Obsidian,最好用的笔记工具",
+    "Blog/zh/Obsidian,最好用的笔记工具.md",
+    "KAIMING/AP CSA/复习笔记.md",
+    "Blog/en/2025 Youth Challenge competition.md",
     "乱七八糟的/Latex数学公式.md",
-    "压岁钱记录及分配方法.md",
-    "数学/可去间断（Removable Discontinuity）.md",
-    "数学/一些公式.md",
-    "数学/三角函数导数表.md",
-    "数学/数学期末复习.md",
-    "数学/级数的收敛性.md",
-    "物理/无线电波.md",
-    "物理/闭合电路欧姆定律.md",
-    "物理/质谱仪.md",
-    "物理/物理交变电流笔记.md",
-    "物理/电磁.md",
-    "物理/洛伦兹力.md",
-    "物理/楞次定律.md",
-    "物理/感应强度  磁通量.md",
-    "物理/一些公式复习.md",
-    "无线电波.md",
-    "数学/泰勒展开式.md",
-    "数学/some thing about vector.md",
-    "物理/磁场对于通电导线的作用力.md",
-    "数学/拉格朗日误差界.md",
-    "other/路由器.md",
-    "other/HA备份.md",
-    "Untitled 1.md",
+    "KAIMING/AP Statistics/AP 统计总复习.md",
+    "Blog/从 500 元爆仓到构建投资组合：我是如何因为给 ChatGPT 充值而意外闯入 Web3 的.md",
+    "Blog/检查用户连胜天出.md",
+    "Blog/解决弹窗的UI问题.md",
+    "Blog/巨大事故：不小心删除了用户所有上传的图片.md",
+    "Blog/开始搭建用户健康数据库.md",
+    "Blog/满足审核要求并且成功上线.md",
+    "Blog/让 AI 助手更加智能化.md",
+    "Blog/上架华为市场.md",
+    "Blog/完成打系统.md",
+    "Blog/完成自动检查消息更新功能.md",
+    "Blog/完成app内自动检查更新.md",
+    "Blog/完成daily页面并且提交审核.md",
+    "Blog/完成ICP备案.md",
+    "Blog/系统的深浅色切换功能.md",
+    "Blog/修复提醒功能的问题.md",
+    "Blog/压缩代码文件.md",
+    "Blog/优化照片存储的方式，改进时间计算的方式.md",
+    "Blog/增加日历页面直观展示发病日期.md",
+    "Blog/增加照片上传功能.md",
+    "未命名",
+    "Excalidraw",
     "attachments/Pasted image 20250415223601.png",
     "attachments/Pasted image 20250415223504.png",
     "attachments/Screenshot 2025-04-08 at 20.33.44.png",
@@ -385,16 +241,6 @@
     "attachments/TOEFL SIMPLIFICATION QUESTION.pdf",
     "attachments/TOEFL SIMPLIFICATION QUESTION.docx",
     "计算机笔记",
-    "attachments/Bilingual_Vocabulary_Sheet.pdf",
-    "attachments/context clues 1.pdf",
-    "attachments/context clues.pdf",
-    "attachments/Screenshot 2025-03-15 at 11.08.21.png",
-    "综合英语",
-    "attachments/1741327893775.png",
-    "英文文学",
-    "attachments/Screenshot 2025-03-10 at 19.20.52.png",
-    "数学",
-    "attachments/Pasted image 20250310152331.png",
-    "化学"
+    "attachments/Bilingual_Vocabulary_Sheet.pdf"
   ]
 }

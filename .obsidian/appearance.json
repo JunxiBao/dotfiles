@@ -1,6 +1,9 @@
 {
-  "cssTheme": "Primary",
-  "enabledCssSnippets": [],
+  "cssTheme": "Border",
+  "enabledCssSnippets": [
+    "heading-colors",
+    "custom-rainbow-colors"
+  ],
   "theme": "system",
   "translucency": true,
   "accentColor": "",

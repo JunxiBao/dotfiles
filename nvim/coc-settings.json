@@ -1,0 +1,9 @@
+{
+    "coc.preferences.colorSupport": true,
+    "clangd.path": "/opt/homebrew/opt/llvm/bin/clangd",
+    "clangd.disableSnippetCompletion": true,
+    "inlayHint.enable": false,
+    "semanticTokens.enable": true,
+    "Lua.diagnostics.enable": false,
+    "suggest.noselect": true
+}
