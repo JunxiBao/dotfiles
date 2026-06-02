@@ -1,0 +1,31 @@
+# ~/.config/dotfiles/.bashrc.shared
+# Portable shell config — safe to share across machines / upload to GitHub.
+# Machine-specific overrides and paths go in .bashrc.local (not tracked).
+
+# ---- Aliases ----
+alias ls='ls --color=auto -G'
+alias ll='ls --color=auto -G -lhrt'
+alias vim='nvim'
+alias vimdiff='nvim -d'
+alias cat='bat'
+alias top='htop'
+alias so='source ~/.bashrc'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+
+# ---- Editor & terminal ----
+export EDITOR=nvim
+export TERM=xterm-256color
+ulimit -c unlimited
+
+# ---- Prompt (bash) ----
+CYAN='\[\e[0;36m\]'
+GREEN='\[\e[0;32m\]'
+YELLOW='\[\e[0;33m\]'
+RESET='\[\e[0m\]'
+PS1="[${CYAN}\u@\h ${GREEN}\w${RESET}]${YELLOW}(\$(git branch 2>/dev/null | grep '^*' | sed 's/^* //'))${RESET}\n~~~>\\$ "
+
+# ---- fzf ----
+eval "$(fzf --bash)" 2>/dev/null
+export FZF_CTRL_T_OPTS="--preview 'bat --style=numbers --color=always --line-range :500 {}'"
