@@ -2,6 +2,11 @@
 # Portable shell config — safe to share across machines / upload to GitHub.
 # Machine-specific overrides and paths go in .bashrc.local (not tracked).
 
+# ---- Idempotent PATH helpers ----
+# Use these instead of export PATH="xxx:$PATH" to avoid duplication.
+path_prepend() { case ":$PATH:" in *":$1:"*) ;; *) PATH="$1:$PATH" ;; esac; }
+path_append()  { case ":$PATH:" in *":$1:"*) ;; *) PATH="$PATH:$1" ;; esac; }
+
 # ---- Aliases ----
 alias ls='ls --color=auto -G'
 alias ll='ls --color=auto -G -lhrt'
